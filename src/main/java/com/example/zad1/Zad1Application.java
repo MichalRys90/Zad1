@@ -47,6 +47,7 @@ public class Zad1Application {
 
             System.out.println(" number minus = 0 Pamietaj cholero nie dziel przez 0 " + " number min = " + min + " number max = " + max);
 
+
         }
 
 
